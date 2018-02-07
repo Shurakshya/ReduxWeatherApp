@@ -27,12 +27,10 @@ class WeatherList extends Component{
         </td>
       </tr>
     )
-
   }
 
   render () {
     return(
-
       <table className={"table table-hover"}>
         <thead>
           <tr>

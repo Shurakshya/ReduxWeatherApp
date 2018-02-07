@@ -1,4 +1,4 @@
-import {FETCH_WEATHER} from "../constants";
+import { FETCH_WEATHER } from "../constants";
 
 export default function (state = [], action ) {
   switch (action.type){
